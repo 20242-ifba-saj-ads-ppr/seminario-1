@@ -37,6 +37,7 @@ class Animal{
     + boolean isMammal()
     + void mate()
 }
+'para a heranca ficar para baixo
 class Duck extends Animal{
     +String beakColor
     +swim()
